@@ -1,0 +1,15 @@
+A:\projects\C#Лекция3\Лекция3.Методы\bin\Debug\net6.0\Лекция3.Методы.exe
+A:\projects\C#Лекция3\Лекция3.Методы\bin\Debug\net6.0\Лекция3.Методы.deps.json
+A:\projects\C#Лекция3\Лекция3.Методы\bin\Debug\net6.0\Лекция3.Методы.runtimeconfig.json
+A:\projects\C#Лекция3\Лекция3.Методы\bin\Debug\net6.0\Лекция3.Методы.dll
+A:\projects\C#Лекция3\Лекция3.Методы\bin\Debug\net6.0\Лекция3.Методы.pdb
+A:\projects\C#Лекция3\Лекция3.Методы\obj\Debug\net6.0\Лекция3.Методы.csproj.AssemblyReference.cache
+A:\projects\C#Лекция3\Лекция3.Методы\obj\Debug\net6.0\Лекция3.Методы.GeneratedMSBuildEditorConfig.editorconfig
+A:\projects\C#Лекция3\Лекция3.Методы\obj\Debug\net6.0\Лекция3.Методы.AssemblyInfoInputs.cache
+A:\projects\C#Лекция3\Лекция3.Методы\obj\Debug\net6.0\Лекция3.Методы.AssemblyInfo.cs
+A:\projects\C#Лекция3\Лекция3.Методы\obj\Debug\net6.0\Лекция3.Методы.csproj.CoreCompileInputs.cache
+A:\projects\C#Лекция3\Лекция3.Методы\obj\Debug\net6.0\Лекция3.Методы.dll
+A:\projects\C#Лекция3\Лекция3.Методы\obj\Debug\net6.0\refint\Лекция3.Методы.dll
+A:\projects\C#Лекция3\Лекция3.Методы\obj\Debug\net6.0\Лекция3.Методы.pdb
+A:\projects\C#Лекция3\Лекция3.Методы\obj\Debug\net6.0\Лекция3.Методы.genruntimeconfig.cache
+A:\projects\C#Лекция3\Лекция3.Методы\obj\Debug\net6.0\ref\Лекция3.Методы.dll
